@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://Keenlyia.github.io/todo-list",
   "private": true,
-  "proxy": "https://backend-todolist-97122956d60d.herokuapp.com",
+  "proxy": "https://backend-todolist-97122956d60d.herokuapp.com/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
